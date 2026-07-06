@@ -1,0 +1,23 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local Database & Secrets
+*_db.json
+.env
+.env.*
+.streamlit/
+
+# OS/IDE configs
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,14 @@
+.gcloudignore
+.git
+.gitignore
+.venv/
+__pycache__/
+*.pyc
+.streamlit/
+*_db.json
+.env
+task.md
+implementation_plan.md
+walkthrough.md
+deployment_guide.md
+skills/

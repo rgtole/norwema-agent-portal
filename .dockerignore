@@ -1,0 +1,10 @@
+.venv
+__pycache__
+.git
+.gitignore
+.streamlit
+*_db.json
+task.md
+implementation_plan.md
+walkthrough.md
+deployment_guide.md
