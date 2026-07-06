@@ -34,7 +34,7 @@ git commit -m "Initial commit of NORWEMA Agent Portal with Firestore DB integrat
 2. Link your local repository and push:
 ```bash
 git branch -M main
-git remote add origin https://github.com/YOUR_GITHUB_USERNAME/norwema-agent-portal.git
+git remote add origin https://github.com/rgtole/norwema-agent-portal.git
 git push -u origin main
 ```
 
