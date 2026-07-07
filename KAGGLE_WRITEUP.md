@@ -1,6 +1,8 @@
 # Kaggle Submission Portfolio Writeup
 ## Project Title: Multi-Agent Digital Portal — North West Marathi Association (NORWEMA)
 
+![Kaggle Submission Card Banner](file:///c:/Users/RUSHI/.gemini/antigravity-ide/scratch/norwema_agent_portal/kaggle_card_banner.png)
+
 ---
 
 ## 1. Executive Summary
@@ -110,3 +112,13 @@ The entire application was built, debugged, and deployed in collaboration with *
 *   **Deployment Environment:** Containerized using Docker ([Dockerfile](file:///c:/Users/RUSHI/.gemini/antigravity-ide/scratch/norwema_agent_portal/Dockerfile)) and deployed serverless on Google Cloud Run in the `europe-west2` region.
 *   **Secrets Manager:** Gemini API keys are retrieved securely at runtime from Google Cloud Secret Manager.
 *   **Verification:** Administrators can log in, select the Event Architect or Cultural Blogger agents, command them to perform actions, watch the database update in real-time, and register for events through the dynamic multi-step form with mock payment processing.
+
+### Portfolio Submission Media Assets
+To complete the Kaggle submission, attach the following assets from the repository root:
+*   **Card Banner (Cover Image):** [kaggle_card_banner.png](file:///c:/Users/RUSHI/.gemini/antigravity-ide/scratch/norwema_agent_portal/kaggle_card_banner.png) (Interconnected AI agent nodes and Marathi cultural motifs).
+*   **Thumbnail Image:** [kaggle_thumbnail.png](file:///c:/Users/RUSHI/.gemini/antigravity-ide/scratch/norwema_agent_portal/kaggle_thumbnail.png) (Modern tech logo icon with Devnagari Marathi letter 'न').
+*   **Walkthrough Animation Video:** Convert the WebP animation to MP4 using Kapwing/Canva/Kap and attach the video showing the agentic loop, database telemetry, and mock Stripe checkout.
+*   **Additional Screenshots:** 
+    *   [norwema_banner_v2.png](file:///c:/Users/RUSHI/.gemini/antigravity-ide/scratch/norwema_agent_portal/norwema_banner_v2.png) (Responsive portal UI banner).
+    *   [norwema_logo_new.png](file:///c:/Users/RUSHI/.gemini/antigravity-ide/scratch/norwema_agent_portal/norwema_logo_new.png) (Brand assets).
+
