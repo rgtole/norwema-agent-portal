@@ -1,7 +1,7 @@
 # Kaggle Submission Portfolio Writeup
 ## Project Title: Multi-Agent Digital Portal — North West Marathi Association (NORWEMA)
 
-![Kaggle Submission Card Banner](file:///c:/Users/RUSHI/.gemini/antigravity-ide/scratch/norwema_agent_portal/kaggle_card_banner.png)
+![Kaggle Submission Card Banner](file:///c:/Users/RUSHI/.gemini/antigravity-ide/scratch/norwema_agent_portal/kaggle_card_banner_simple.png)
 
 ---
 
@@ -115,9 +115,10 @@ The entire application was built, debugged, and deployed in collaboration with *
 
 ### Portfolio Submission Media Assets
 To complete the Kaggle submission, attach the following assets from the repository root:
-*   **Card Banner (Cover Image):** [kaggle_card_banner.png](file:///c:/Users/RUSHI/.gemini/antigravity-ide/scratch/norwema_agent_portal/kaggle_card_banner.png) (Interconnected AI agent nodes and Marathi cultural motifs).
+*   **Card Banner (Cover Image):** [kaggle_card_banner_simple.png](file:///c:/Users/RUSHI/.gemini/antigravity-ide/scratch/norwema_agent_portal/kaggle_card_banner_simple.png) (Simple card matching the website's warm saffron, maroon, and gold palette).
+*   **Alternative Card Banner:** [kaggle_card_banner.png](file:///c:/Users/RUSHI/.gemini/antigravity-ide/scratch/norwema_agent_portal/kaggle_card_banner.png) (AI agent nodes and Marathi cultural motifs).
 *   **Thumbnail Image:** [kaggle_thumbnail.png](file:///c:/Users/RUSHI/.gemini/antigravity-ide/scratch/norwema_agent_portal/kaggle_thumbnail.png) (Modern tech logo icon with Devnagari Marathi letter 'न').
-*   **Walkthrough Animation Video:** Convert the WebP animation to MP4 using Kapwing/Canva/Kap and attach the video showing the agentic loop, database telemetry, and mock Stripe checkout.
+*   **Compressed Walkthrough Animation:** [agent_walkthrough_compressed.webp](file:///c:/Users/RUSHI/.gemini/antigravity-ide/scratch/norwema_agent_portal/agent_walkthrough_compressed.webp) (Optimized 960x546 animation, file size 4.74 MB, plays at 40ms/frame to align with the 40s explainer script).
 *   **Additional Screenshots:** 
     *   [norwema_banner_v2.png](file:///c:/Users/RUSHI/.gemini/antigravity-ide/scratch/norwema_agent_portal/norwema_banner_v2.png) (Responsive portal UI banner).
     *   [norwema_logo_new.png](file:///c:/Users/RUSHI/.gemini/antigravity-ide/scratch/norwema_agent_portal/norwema_logo_new.png) (Brand assets).
